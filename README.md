@@ -1,6 +1,8 @@
 # MoceanSMS 2FA Login Extension
 MoceanSMS 2FA Login Typo3 Extension allows frontend users to opt in to SMS 2FA verification for login by using MoceanAPI. This extension requires static templates(Bootstrap Package: Full Package and Typoscript Form) to function.
 
+Secure your TYPO3 site with OTP integration via Mocean SMS Login extension
+
 ## User Tutorial
 
 Check [Documentation](https://github.com/MoceanAPI/mocean_sms_login/blob/main/Documentation/MoceanSMS%202FA%20Login%20Typo3%20Extension%20Tutorial.pdf) for a detailed tutorial.
